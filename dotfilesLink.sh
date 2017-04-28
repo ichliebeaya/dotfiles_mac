@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ln -sf ~/dotfiles/.vimrc ~/.vimrc
-ln -sf ~/dotfiles/.vim ~/.vim
+ln -sf ~/GitHub/dotfiles_mac/.vimrc ~/.vimrc
+ln -sf ~/GitHub/dotfiles_mac/.vim ~/.vim
 
 
