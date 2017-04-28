@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/cadmin/Documents/ochais'
+let g:netrw_dirhist_2='/Users/cadmin/Library/Application Scripts/com.apple.share.Video.upload-Vimeo'
+let g:netrw_dirhist_3='/Users/cadmin/.vim'
